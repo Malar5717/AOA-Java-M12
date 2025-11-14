@@ -21,7 +21,7 @@ using Manacher's Algorithm
 
 ## Program:
 
-### to implement Reverse a String
+### to implement manachers algorithm
 
 ```java
 public class Main {

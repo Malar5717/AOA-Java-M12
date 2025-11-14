@@ -38,7 +38,7 @@ Your goal is to maximize total profit while completing the maximum number of job
 
 ## Program:
 
-### to implement Reverse a String
+### to implement job sequencing
 
 ```java
 import java.util.Arrays;

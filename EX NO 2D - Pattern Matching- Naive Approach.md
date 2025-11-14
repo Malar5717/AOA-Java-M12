@@ -28,7 +28,7 @@ Output: Pattern found at index 0, Pattern found at index 9, Pattern found at ind
 
 ## Program:
 
-### to implement Reverse a String
+### to implement pattern matching
 
 ```java
 public class Main {

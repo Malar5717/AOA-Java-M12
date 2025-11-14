@@ -27,8 +27,7 @@ If it is not possible to reach the end, return -1.
 
 ## Program:
 
-### to implement Reverse a String
-
+### to implement jump game
 ```java
 public class Main {
 
